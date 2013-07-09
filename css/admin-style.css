@@ -1,0 +1,10 @@
+/* CSS Document */
+
+#lateralh1 { background: url(../images/logo-24.png) 0 0 no-repeat; text-indent: 30px; font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif; letter-spacing: 1px; 
+ font-weight: normal; color: #464646; border-bottom: 1px solid #dfdfdf; padding-bottom: 10px; margin-bottom: 10px; width: 50%; overflow: visible;}
+.credit { display: inline-block; height: 35px;}
+.credit img { height: 20px; padding-right: 5px; }
+.lateral-help { width: 50%; float: left; }
+.preview { clear: both; float: none !important; padding-top: 20px; }
+.lateralpress img { width: 100%; }
+.inside.lateralpress { text-align: center; font-weight: bold; }
